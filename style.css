@@ -1,0 +1,13 @@
+.about{
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.7s ease-in;
+    font-style: oblique;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.7s ease-in;   
+}
